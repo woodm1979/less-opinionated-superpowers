@@ -1,9 +1,9 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "less-opinionated-superpowers",
+  "description": "Minimal-diff fork of obra/superpowers with suppressed auto-invoke and reduced opinion",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "woodm1979",
+    "email": "matt@lyvi.com"
   },
   "plugins": [
     {
@@ -12,8 +12,8 @@
       "version": "5.0.7",
       "source": "./",
       "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
+        "name": "woodm1979",
+        "email": "matt@lyvi.com"
       }
     }
   ]
