@@ -191,7 +191,7 @@ Code reviewer: ✅ Approved
 ...
 
 [After all tasks]
-[Dispatch final code-reviewer]
+[Dispatch final superpowers:receiving-code-review]
 Final reviewer: All requirements met, ready to merge
 
 Done!
