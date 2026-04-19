@@ -14,6 +14,7 @@ This plugin provides the following skills:
 | `superpowers:executing-plans` | Executes a written implementation plan step by step |
 | `superpowers:receiving-code-review` | Processes incoming code review feedback rigorously |
 | `superpowers:requesting-code-review` | Dispatches a code reviewer subagent |
+| `superpowers:subagent-driven-development` | Executes plans via fresh subagents with two-stage review |
 | `superpowers:systematic-debugging` | Structured root-cause analysis for bugs and failures |
 | `superpowers:test-driven-development` | Red-green-refactor TDD workflow |
 | `superpowers:using-git-worktrees` | Sets up isolated git worktrees for feature work |
@@ -40,4 +41,5 @@ These skills require explicit invocation by you or the user:
 - `superpowers:writing-plans`
 - `superpowers:executing-plans`
 - `superpowers:requesting-code-review`
+- `superpowers:subagent-driven-development`
 - `superpowers:writing-skills`

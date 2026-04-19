@@ -4,7 +4,8 @@ Personal fork of [`obra/superpowers`](https://github.com/obra/superpowers). Mini
 
 ## Fork diff summary
 
-- **Deleted:** `finishing-a-development-branch`, `subagent-driven-development`
+- **Deleted:** `finishing-a-development-branch`
+- **Kept as manual-only:** `subagent-driven-development`
 - **Neutralized descriptions** (suppress auto-invoke): `brainstorming`, `executing-plans`, `requesting-code-review`, `writing-plans`
 - **Patched body:** `executing-plans` — removed `finishing-a-development-branch` required sub-skill chain
 - **Rewritten:** `using-superpowers` — replaced mandatory 1%-chance protocol with a light informational note listing auto-invoke vs manual-only skills
